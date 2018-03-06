@@ -1,8 +1,8 @@
 /*
  * This program solves the eight queens problem
- * Using a bracktracking approach
+ * Using a backtracking approach
  * Output is an array displaying configurations
- * That is column number for each row
+ * That is column number of queen for each row
  */
 
 /**
